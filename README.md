@@ -1,11 +1,11 @@
 # 🍽️ Pedido Fácil – App de Pedidos para Restaurante Casual
 
-Projeto desenvolvido como parte de um **desafio prático da DIO**, com foco em
-**UX/UI Design, usabilidade, prototipagem e documentação**.
+Projeto desenvolvido como parte de um **desafio prático da DIO**, 
+**UX/UI Design**.
 
 ---
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 O **Pedido Fácil** é um aplicativo de pedidos para restaurante casual, criado
 para facilitar o processo de escolha e realização de pedidos pelos clientes,
@@ -16,7 +16,7 @@ desde o briefing até a prototipagem de alta fidelidade.
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Criar um protótipo de aplicativo mobile que permita ao usuário:
 
@@ -30,7 +30,7 @@ Tudo isso com foco em **boa usabilidade**, **navegação clara** e **design cons
 
 ---
 
-## 👥 Público-alvo
+##  Público-alvo
 
 - Pessoas entre 18 e 50 anos  
 - Clientes de restaurantes casuais  
@@ -39,14 +39,14 @@ Tudo isso com foco em **boa usabilidade**, **navegação clara** e **design cons
 
 ---
 
-## 📱 Plataforma
+##  Plataforma
 
 - Aplicativo Mobile (Android e iOS)
 - Prototipado utilizando o **Figma**
 
 ---
 
-## 🧠 Processo de Design
+##  Processo de Design
 
 O desenvolvimento do projeto seguiu as seguintes etapas:
 
@@ -84,7 +84,7 @@ As telas foram desenvolvidas em alta fidelidade, contendo cores, imagens e texto
 
 ### Telas do aplicativo:
 - Splash Screen  
-- Login / Cadastro  
+- Login   
 - Home  
 - Cardápio  
 - Detalhes do Produto  
