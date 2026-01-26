@@ -42,6 +42,5 @@ O prazo estimado para a conclusão do projeto é de aproximadamente:
 
 - Este orçamento considera apenas as etapas de **design e prototipagem**
 - Não inclui desenvolvimento (frontend ou backend)
-- Valores apresentados são apenas para fins educacionais
 
 
