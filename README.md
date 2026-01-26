@@ -26,8 +26,6 @@ Criar um protótipo de aplicativo mobile que permita ao usuário:
 - Finalizar a compra  
 - Receber a confirmação do pedido  
 
-Tudo isso com foco em **boa usabilidade**, **navegação clara** e **design consistente**.
-
 ---
 
 ##  Público-alvo
