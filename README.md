@@ -1,2 +1,2 @@
-# Pedido-F-cil
+# Pedido-Fácil
 Desafio DIO - Formação UI/UX Designer
