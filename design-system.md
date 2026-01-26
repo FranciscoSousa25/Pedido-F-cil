@@ -39,14 +39,14 @@ facilitando a criação e manutenção das telas do aplicativo.
 ##  Componentes de Interface
 
 
-### 🔘 Botão Padão aplicativo
+###  Botão Padão aplicativo
 - Cor de fundo: Verde (#05B084)
 - Texto: Branco
 - Fonte: Poppins bold – 20px
 - Bordas: Arredondadas (5px)
 - Estado: Normal
 
-### 🧾 Card de Produto
+###  Card de Produto
 - Imagem do produto
 - Nome do prato
 - Preço
